@@ -1,6 +1,8 @@
 # Blogging-website
 ART DESIGN WEBSITE
 
+using Html and Css
+
 ![Screenshot 2024-02-14 091724](https://github.com/Aadarsh123-dot/Blogging-website/assets/113118427/ee809eac-2f02-4ba8-9ee1-b7747a08d447)
 
 
